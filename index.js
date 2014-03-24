@@ -1,1 +1,1 @@
-module.exports = require('lib/uglify.js');
+module.exports = require('./lib/uglify.js');
